@@ -376,3 +376,273 @@ padding: 15px;
 .yul{
     padding: 20px;
 }
+
+.section8{
+    border: 2px solid #DCEDFE;
+    background-color: #DCEDFE;
+    width: 1200px;
+    height: 593px;
+    margin-top: 80px;
+}
+
+.text1 h3{
+    border: 1px solid #CECECE;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 190px;
+}
+
+.text1 p{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.clot{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.clot a{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    gap: 5px;
+}
+
+.blood{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.blood a{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    gap: 5px;
+}
+
+.section9{
+
+    background-color: #0152A8;
+    width: 1200px;
+    height: 1239px;
+}
+
+.text88{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    margin-top: 80px;
+    padding: 10px;
+}
+
+.text88 button{
+    width: 188px;
+    height: 60px;
+    background-color: #0FE3AF;
+}
+
+.text88 button:hover{
+    background-color: red;
+    transition: 2s;
+}
+
+.cap1{
+
+    width: 360px;
+    height: 509px;
+    background-color: #004A99;
+    margin: 0 auto;
+}
+
+.doct{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.cap1 img{
+padding-left: 30px;
+margin-top: 25px;
+}
+
+.cap1 h1{
+    text-align: center;
+}
+
+.cap1 p{
+    text-align: center;
+}
+
+.cap1 a{
+    padding-left: 85PX;
+}
+
+.text77 p{
+    border: 1px solid #CECECE;
+    width: 170px;
+    text-align: center;
+    margin-right: 170px;
+}
+
+.chiz2{
+    border: 1px solid #2F85E1;
+    width: 1200px;
+    height: 1px;
+    margin-top: 100px;
+}
+
+.son{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.son1 h1{
+    font-size: 50px;
+}
+
+.son1 p{
+    border: 1px solid #2B78CA;
+    width: 150px;
+    text-align: center;
+}
+
+.section10{
+
+    width: 1200px;
+    height: 700px;
+    margin-top: 80px;
+}
+
+.text10 p{
+    border: 1px solid #CECECE;
+    width: 120px;
+    margin-right: 170px;
+    margin-top: 90px;
+}
+
+.text10{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.august1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.august2{
+    display: flex;
+    align-items: center;
+    padding-left: 110px;
+    gap: 20px;
+}
+
+.artic{
+    margin-top: 30px;
+}
+.artic h1{
+    font-size: 20px;
+
+}
+.section10 p{
+    border: 1px solid #CECECE;
+    width: 125px;
+    margin-right: 170px;
+}
+
+.text2 button{
+    width: 188px;
+    height: 80px;
+    font-size: 16px;
+    border: 2px solid #DFDFDF;
+    background-color: #fff;
+}
+
+.section10 button:hover{
+    background-color: red;
+    transition: 2s;
+}
+
+.section11{
+    width: 1200px;
+    height: 500px;
+    background-color: #E5F2EF;
+    margin-top: 120px;
+}
+.appo{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+    padding-left: 80px;
+}
+
+.section11 p{
+    border: 1px solid #E5F2EF;
+    width: 290px;
+    color: #545454;
+}
+
+.section11 input{
+    width: 325px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+.section11 button{
+    width: 138px;
+    height: 60px;
+    background-color: #0152A8;
+    color: #fff;
+    font-size: 17px;
+}
+
+.section11 a{
+    text-decoration: none;
+    color: #545454;
+}
+
+.ph{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 60px;
+}
+
+.ph a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.section12{
+    width: 1200px;
+    height: 100px;
+    color: #545454;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #fff;
+}
+
+.section12 p{
+    width: 1200px;
+    border: 1px solid #fff;
+}
+
+.logoTenX a{
+    text-decoration: none;
+}
